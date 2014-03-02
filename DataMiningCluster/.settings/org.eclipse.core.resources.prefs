@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/titech/songyang/ClusterMain.java=UTF-8
+encoding//src/com/titech/songyang/ComputeWordsVector.java=UTF-8
+encoding//src/com/titech/songyang/DataPreProcess.java=UTF-8
+encoding//src/com/titech/songyang/DimensionReduction.java=UTF-8
+encoding//src/com/titech/songyang/KmeansCluster.java=UTF-8
+encoding//src/com/titech/songyang/KmeansSVDCluster.java=UTF-8
+encoding/<project>=UTF-8
